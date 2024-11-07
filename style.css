@@ -1,0 +1,22 @@
+*{
+    text-decoration: none;
+    color: black;
+}
+table{
+    border-collapse: collapse;
+    width: 100%;
+    border: 1px solid black;
+    margin: 0 auto;
+
+}
+tr{
+    border-collapse: collapse;
+    width: 100%;
+    border: 1px solid black;
+    cellspacing:2rem;
+}
+td{
+    text-align: center;
+    cellspacing: 2rem;
+}
+
